@@ -10,7 +10,7 @@
         <ul>
             <li>📚 Actualmente soy estudiante de Ing en Sistemas, curso mas de la mitad de la carrera ...</li>
             <li>🔭 Actualmente trabajo de manera independiente desarrollando aplicaciones para pequeñas empresas...</li>
-            <li>🌱 Actualmente estoy aprendiendo y mejorando el MEAN Stack ...</li>
+            <li>🌱 Actualmente estoy aprendiendo y mejorando el MERN Stack ...</li>
             <li>💬 Puedes preguntarme sobre, html, css, php, mysql, java, js ...</li>
             <li>📫 Contactame: juan.pino@ucp.edu.co / juandanielpinoramirez27@gmail.com </li>
         </ul>
