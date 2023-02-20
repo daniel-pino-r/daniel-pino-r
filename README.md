@@ -1,6 +1,6 @@
 <div align="center" id="header"> 
     <img src="https://media1.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47txfcetm9q8wzteixvm7xrrbu2hvku01v3xpwcptd&rid=giphy.gif&ct=g" alt="img programer"/>
-   <h1>📍Hola a todos, soy daniel jr.  Developer FullStack📍</h1>
+   <h1>📍Hola a todos, soy daniel jr. FullStack Developer📍</h1>
 </div>
 
 ### Sobre mi:
