@@ -3,6 +3,7 @@
    <h1>📍Hola a todos, soy daniel jr. FullStack Developer📍</h1>
 </div>
 
+YouTube Channel: https://www.youtube.com/channel/UCs37bxxU3WlzynTTI-5V71A
 
 ### Sobre mi:
 
