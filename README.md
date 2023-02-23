@@ -1,26 +1,26 @@
 <div align="center" id="header"> 
     <img src="https://user-images.githubusercontent.com/109497362/220240793-731b494d-d0e6-4ede-b294-82072086d7a9.png" alt="img programer"/>
-   <h1>📍Hola a todos, soy daniel jr. FullStack Developer📍</h1>
+   <h1>📍Hi, i'm daniel jr. FullStack Developer📍</h1>
 </div>
 
 YouTube Channel: https://www.youtube.com/channel/UCs37bxxU3WlzynTTI-5V71A
 
-### Sobre mi:
+### About me:
 
 <div align="left">
     <div>
         <ul>
-            <li>📚 Actualmente soy estudiante de Ing en Sistemas, curso mas de la mitad de la carrera ...</li>
-            <li>🔭 Actualmente trabajo de manera independiente desarrollando aplicaciones para pequeñas empresas...</li>
-            <li>🌱 Actualmente estoy aprendiendo y mejorando el MERN Stack ...</li>
-            <li>💬 Puedes preguntarme sobre, html, css, php, mysql, java, js ...</li>
-            <li>📫 Contactame: juan.pino@ucp.edu.co / juandanielpinoramirez27@gmail.com </li>
+            <li>📚 Currently I am a student of Engineering in Systems...</li>
+            <li>🔭 I currently work independently developing applications for small businesses...</li>
+            <li>🌱 I am currently learning and improving the MERN Stack...</li>
+            <li>💬 You can ask me about, html, css, php, mysql, java, js...</li>
+            <li>📫 Contact: juan.pino@ucp.edu.co / juandanielpinoramirez27@gmail.com </li>
         </ul>
     </div>
 </div>
 
 ---
-### Lenguajes y Herramientas:
+### Languages and Tools:
 
  <div align="left">   
        <div>
@@ -35,7 +35,7 @@ YouTube Channel: https://www.youtube.com/channel/UCs37bxxU3WlzynTTI-5V71A
 </div>      
    
    ---
-   ### Mis Stats:
+   ### Stats:
        
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=daniel-pino-r&theme=sea-dark&locale=es)](https://git.io/streak-stats)
   
