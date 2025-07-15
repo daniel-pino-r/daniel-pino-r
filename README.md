@@ -25,12 +25,11 @@ YouTube Channel: https://www.youtube.com/channel/UCs37bxxU3WlzynTTI-5V71A
  <div align="left">   
        <div>
             <img src="https://user-images.githubusercontent.com/109497362/220187899-85f53bbc-c4ad-42b2-8f7a-4dbbc2d0c23e.png" alt="REACT"/>
-            <img src="https://user-images.githubusercontent.com/109497362/220187076-d57f6110-9587-46a5-8e0b-6535fc19cb57.png" alt="JavaScript"/>
-            <img src="https://user-images.githubusercontent.com/109497362/220187631-1122b129-9d19-4d73-8643-58457d170e1c.png" alt="MySql"/>
-            <img src="https://user-images.githubusercontent.com/109497362/220186567-084979ea-c71b-4deb-989e-100e88ffabad.png" alt="PHP"/> 
-            <img src="https://user-images.githubusercontent.com/109497362/220185003-b4b3cca6-e4c3-4392-9104-c93339307493.png" alt="CSS"/>
-            <img src="https://user-images.githubusercontent.com/109497362/220185010-888b1d33-5757-4c49-b212-ef6819e3d651.png" alt="HTML"/>   
-            <img src="https://user-images.githubusercontent.com/109497362/220186801-4619f652-9d0f-4628-b853-bd31b2754c68.png" alt="Java"/>
+            <img src="https://user-images.githubusercontent.com/109497362/220187076-d57f6110-9587-46a5-8e0b-6535fc19cb57.png" alt="NodeJS "/>
+            <img src="https://user-images.githubusercontent.com/109497362/220187631-1122b129-9d19-4d73-8643-58457d170e1c.png" alt="SQL"/>
+            <img src="https://user-images.githubusercontent.com/109497362/220186567-084979ea-c71b-4deb-989e-100e88ffabad.png" alt="PHP"/>  
+            <img src="https://user-images.githubusercontent.com/109497362/220185010-888b1d33-5757-4c49-b212-ef6819e3d651.png" alt="Tailwind CSS"/>   
+            <img src="https://user-images.githubusercontent.com/109497362/220186801-4619f652-9d0f-4628-b853-bd31b2754c68.png" alt="NextJS"/>
         </div>
 </div>      
    
